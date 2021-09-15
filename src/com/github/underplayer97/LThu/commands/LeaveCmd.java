@@ -31,7 +31,7 @@ public class LeaveCmd implements CommandExecutor{
 		
 		if (p.hasPermission("LThu.Leave")) {
 			 {
-				 Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "server skywars");
+				 Bukkit.dispatchCommand(Bukkit.getConsoleSender(), "server thumbnail");
 				return true;
 		}}
 				
