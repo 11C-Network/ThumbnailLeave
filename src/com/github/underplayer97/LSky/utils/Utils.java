@@ -1,4 +1,4 @@
-package com.github.underplayer97.LBed.utils;
+package com.github.underplayer97.LSkyils;
 
 import org.bukkit.ChatColor;
 
