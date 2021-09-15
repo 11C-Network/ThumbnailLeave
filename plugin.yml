@@ -11,10 +11,10 @@ softdepend: []
 loadbefore: []
 permisions:
    LThu.Leave:
-      description: Leave to the bedwars lobby
+      description: Leave to the Thumbnail lobby
       default: true
 commands: 
    Leave:
-      description: Leave to the Skywars lobby
+      description: Leave to the Thumbnail lobby
       permission: LThu.Leave
       useage: /leave
